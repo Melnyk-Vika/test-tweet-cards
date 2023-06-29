@@ -1,8 +1,7 @@
 {
-  "name": "tweet-cards",
+  "name": "react-homework-template",
+  "version": "0.1.0",
   "private": true,
-  "version": "0.0.0",
-  "type": "module",
   "homepage": "https://Melnyk-Vika.github.io/tweet-cards/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.3",
